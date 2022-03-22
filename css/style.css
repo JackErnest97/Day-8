@@ -1,1 +1,8 @@
 html {background-color: green;}
+
+.container {background-color: wheat;
+            margin: 20px;}
+
+.row {display: flex;}
+
+.columns {flex: 50%;}
